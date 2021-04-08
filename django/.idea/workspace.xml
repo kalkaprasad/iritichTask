@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9970b937-b580-4789-aacd-ed8249995338" name="Default Changelist" comment="">
+      <change afterPath="I:/Collegeproject/.idea/Collegeproject.iml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/.idea/FaceAttedeceBase.iml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/.idea/emailsend.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/808.gif" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_03-09.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_03-19.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_03-20.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_03-22.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_14-53.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_14-56.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_15-00.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_15-02.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_15-04.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_16-48.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_16-49.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_17-56.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_17-57.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_17-58.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_17-59.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_18-00.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_18-01.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_18-02.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_18-03.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_20-58.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_21-01.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_21-03.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_21-27.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_21-28.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_23-38.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-14_23-39.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-16_03-01.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-16_03-06.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-16_03-13.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-18_11-12.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-18_11-21.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-18_11-27.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-19_10-45.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-19_10-46.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Attendance/Attendance_2021-01-19_12-19.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/DataSet/Trainner.yml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Readme.txt" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/RegisterStudent.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/StudentRecord.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/TrackWithUi.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/TrackWithoutUi.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/Train.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/UnknownImages/Image1.jpg" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/attadancenoti.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/checkconnection.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/danger.mp3" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/database.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/htmlemail.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/move.mp3" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/output.avi" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/sbsicon.png" afterDir="false" />
+      <change afterPath="I:/Collegeproject/StudentAttendance/smsnotiAttedance.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/danger.mp3" afterDir="false" />
+      <change afterPath="I:/Collegeproject/desktop.ini" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/.idea/FaceAttedeceBase.iml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/808.gif" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_03-09.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_03-19.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_03-20.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_03-22.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_14-53.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_14-56.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_15-00.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_15-02.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_15-04.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_16-48.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_16-49.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_17-56.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_17-57.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_17-58.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_17-59.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_18-00.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_18-01.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_18-02.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_18-03.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_20-58.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_21-01.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_21-03.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_21-27.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_21-28.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_23-38.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-14_23-39.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-15_00-39.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-15_00-49.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-15_00-51.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-15_00-52.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-15_00-54.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-15_00-55.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-15_00-56.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-15_00-57.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-15_01-30.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-16_03-42.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Attendance/Attendance_2021-01-16_03-45.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/DataSet/Trainner.yml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Readme.txt" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/RegisterStaff.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/StudentRecord.csv" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/TrackWithUi.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/TrackWithoutUi.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/Train.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/UnknownImages/Image1.jpg" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/checkconnection.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/database.py" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change afterPath="I:/Collegeproject/staffAttedance/sbsicon.png" afterDir="false" />
+      <change beforePath="I:/webcam/.idea/vcs.xml" beforeDir="false" afterPath="I:/webcam/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="I:/" />
+  </component>
+  <component name="ProjectId" id="1qtJXa14y8aYbLnzGLL1tD0uahF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/task/task" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\iritechTask\django\task\task" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9970b937-b580-4789-aacd-ed8249995338" name="Default Changelist" comment="" />
+      <created>1617892992771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617892992771</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
